@@ -1,1 +1,3 @@
 # lab3-git
+ARTEM YATSENKO
+ARJUN PEROOR
